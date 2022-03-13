@@ -2,7 +2,14 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
+    font-family: "zhuziAwan";
+    font-size: 14px;
 }
 html,body{
     height: 100%;
+}
+@font-face{
+    font-family: 'zhuziAwan';
+    src:url('../assets/font/zhuziAwa1n.ttf') ;
+    /*src:url('assets/font/ZhuZiAWan.woff2') ;*/
 }
